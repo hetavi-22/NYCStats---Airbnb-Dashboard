@@ -1,2 +1,3 @@
 # NYCStats---Airbnb-Dashboard
-![alt text](https://github.com/hetavi-22/NYCStats---Airbnb-Dashboard/blob/Dashboard-preview.jpg?raw=true)
+
+](https://github.com/hetavi-22/NYCStats---Airbnb-Dashboard/blob/main/Dashboard%20preview.png)
